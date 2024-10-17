@@ -1,0 +1,14 @@
+c:\Users\zryr0\OneDrive\Desktop\c# Apps\Assignment1\Assignment1\bin\Debug\net8.0\Assignment1.exe
+c:\Users\zryr0\OneDrive\Desktop\c# Apps\Assignment1\Assignment1\bin\Debug\net8.0\Assignment1.deps.json
+c:\Users\zryr0\OneDrive\Desktop\c# Apps\Assignment1\Assignment1\bin\Debug\net8.0\Assignment1.runtimeconfig.json
+c:\Users\zryr0\OneDrive\Desktop\c# Apps\Assignment1\Assignment1\bin\Debug\net8.0\Assignment1.dll
+c:\Users\zryr0\OneDrive\Desktop\c# Apps\Assignment1\Assignment1\bin\Debug\net8.0\Assignment1.pdb
+c:\Users\zryr0\OneDrive\Desktop\c# Apps\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\zryr0\OneDrive\Desktop\c# Apps\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.AssemblyInfoInputs.cache
+c:\Users\zryr0\OneDrive\Desktop\c# Apps\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.AssemblyInfo.cs
+c:\Users\zryr0\OneDrive\Desktop\c# Apps\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.csproj.CoreCompileInputs.cache
+c:\Users\zryr0\OneDrive\Desktop\c# Apps\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.dll
+c:\Users\zryr0\OneDrive\Desktop\c# Apps\Assignment1\Assignment1\obj\Debug\net8.0\refint\Assignment1.dll
+c:\Users\zryr0\OneDrive\Desktop\c# Apps\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.pdb
+c:\Users\zryr0\OneDrive\Desktop\c# Apps\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.genruntimeconfig.cache
+c:\Users\zryr0\OneDrive\Desktop\c# Apps\Assignment1\Assignment1\obj\Debug\net8.0\ref\Assignment1.dll
